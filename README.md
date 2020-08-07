@@ -11,8 +11,8 @@
 - [x] To change the UI of your plugin (the react code), start editing [App.tsx](./src/app/components/App.tsx).  
 - [x] To interact with the Figma API edit [controller.ts](./src/plugin/controller.ts).  
 - [x] For plugin development-related information, checkout [Figma API Overview](https://www.figma.com/plugin-docs/api/api-overview/).
-- [x] As you make changes, create a **Draft Pull Request** referencing your issue using `#[issue-number]` and Happy Commiting!.
-- [x] Happy with how your code works? Finalise your changes and open up your Pull Request for Review.
+- [x] As you make changes, create a **Draft Pull Request** referencing your issue using `#[issue-number]` and Happy Commiting!
+- [x] Happy with how your code works? Finalise your changes and open up your Pull Request for **Review**.
 - [x] After a few tantalizing review sessions, ✨ **have a cup of ☕ and watch as your code gets merged!** ✨
 
 ### 🧰 &nbsp;Toolings
