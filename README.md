@@ -20,7 +20,7 @@
 * TypeScript
 * Prettier precommit hook
 
-### 🔮 &nbsp;Roadmap to the Future
+### 🔮 &nbsp;Plans for the Future
 - [ ] Generate Material Surface Colours
 - [ ] Generate Color Schemes from Images
 - [ ] Generate an entire Design System from Scratch
