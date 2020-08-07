@@ -1,7 +1,7 @@
 ## 🎨 Matercolor
 **A Figma Plugin** that generates Material Color Palettes for any Color based on the latest Material Color System Guidelines.
 
-### 👐 &nbsp;Contributors' Checklist
+### 👐 &nbsp;Contributor's Checklist
 - [x] Before planning to contribute, create a ✨ **new Issue** ✨ so that we can discuss and improve on your proposed changes.
 - [x] Fork and clone this repository using `git clone https://github.com/arvindcheenu/figma-matercolor.git`
 - [x] Go to this directory using `cd figma-matercolor`
