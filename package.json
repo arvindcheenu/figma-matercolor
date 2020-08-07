@@ -1,0 +1,63 @@
+{
+	"name": "matercolor-figma-plugin",
+	"version": "1.0.0",
+	"description": "A Figma Plugin that generates Material Color Palettes for any Color",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arvindcheenu/figma-matercolor.git"
+  },
+  "keywords": [
+    "figma",
+    "plugin",
+    "material",
+    "color",
+    "palette",
+    "javascript",
+    "design"
+  ], 
+  "license": "GPL-3.0-or-later",
+  "author": "Arvind Srinivasan <arvind@cheenu.net>",
+  "bugs": {
+    "url": "https://github.com/arvindcheenu/figma-matercolor/issues"
+  },
+  "homepage": "https://github.com/arvindcheenu/figma-matercolor#readme",
+	"scripts": {
+		"build": "webpack --mode=production",
+		"build:watch": "webpack --mode=development --watch",
+		"prettier:format": "prettier --write 'src/**/*.{js,jsx,ts,tsx,css,json}' "
+	},
+	"dependencies": {
+		"matercolors": "1.1.1",
+		"react": "^16.13.1",
+		"react-dom": "^16.13.1",
+		"react-hook-form": "^6.3.0"
+	},
+	"devDependencies": {
+		"@figma/plugin-typings": "^1.15.0",
+		"@types/react": "^16.9.35",
+		"@types/react-dom": "^16.9.8",
+		"css-loader": "^3.1.0",
+		"html-webpack-inline-source-plugin": "^0.0.10",
+		"html-webpack-plugin": "^3.2.0",
+		"husky": "^3.0.2",
+		"lint-staged": "^9.2.1",
+		"prettier": "^1.18.2",
+		"style-loader": "^0.23.1",
+		"ts-loader": "^6.0.4",
+		"typescript": "^3.9.5",
+		"url-loader": "^2.1.0",
+		"webpack": "^4.41.4",
+		"webpack-cli": "^3.3.6"
+	},
+	"husky": {
+		"hooks": {
+			"pre-commit": "lint-staged"
+		}
+	},
+	"lint-staged": {
+		"src/**/*.{js,jsx,ts,tsx,css,json}": [
+			"prettier --write",
+			"git add"
+		]
+	}
+}
