@@ -1,9 +1,6 @@
-# Matercolor Figma Plugin
-
-![62862431-71537f00-bd0e-11e9-85db-d97c0fb729a4](https://user-images.githubusercontent.com/16322616/62862692-46b5f600-bd0f-11e9-93b0-75955d1de8f3.png)
-
-
-This template contains the react example as shown on [Figma Docs](https://www.figma.com/plugin-docs/intro/), with some structural changes and extra tooling.
+## 🎨 Matercolor
+### A Figma Plugin
+Generates Material Color Palettes for any Color based on the latest Material Color System Guidelines.
 
 ## Quickstart
 * Run `yarn` to install dependencies.
