@@ -36,10 +36,7 @@ figma.ui.onmessage = data => {
                     if (existingLocalStyles.length !== 0) existingLocalStyles[0].remove();
                     let newStyle = figma.createPaintStyle();
                     newStyle.name = rect.name;
-                    newStyle.description = `HEX : ${primaryPalette.hex}
-                        RGB : ${primaryPalette.rgb.string}
-                        HSL : ${primaryPalette.hsl.string}
-                        CYMK : ${primaryPalette.cymk.string}`;
+                    newStyle.description = `${primaryPalette.hex.toUpperCase()}\n${primaryPalette.rgb.string}\n${primaryPalette.hsl.string}\n${primaryPalette.cymk.string}`;
                     newStyle.paints = [
                         {
                             type: 'SOLID',
@@ -83,10 +80,7 @@ figma.ui.onmessage = data => {
                         if (existingLocalStyles.length !== 0) existingLocalStyles[0].remove();
                         let newStyle = figma.createPaintStyle();
                         newStyle.name = rect.name;
-                        newStyle.description = `HEX : ${complementaryPalette.hex}
-                            RGB : ${complementaryPalette.rgb.string}
-                            HSL : ${complementaryPalette.hsl.string}
-                            CYMK : ${complementaryPalette.cymk.string}`;
+                        newStyle.description = `${complementaryPalette.hex.toUpperCase()}\n${complementaryPalette.rgb.string}\n${complementaryPalette.hsl.string}\n${complementaryPalette.cymk.string}`;
                         newStyle.paints = [
                             {
                                 type: 'SOLID',
