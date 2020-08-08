@@ -28,3 +28,7 @@
 - [x] As you make changes, create a **Draft Pull Request** referencing your issue using `#[issue-number]` and Happy Commiting!
 - [x] Happy with how your code works? Finalise your changes and open up your Pull Request for **Review**.
 - [x] After a few tantalizing review sessions, ✨ **have a cup of ☕ and watch as your code gets merged!** ✨
+
+### 📜 &nbsp;License
+
+This project is licensed under the GPL v3.0 License - see the [LICENSE.md](LICENSE.md) file for details
