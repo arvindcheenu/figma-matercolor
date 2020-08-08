@@ -5,10 +5,10 @@
 ### 🚸 &nbsp;Usage
 
 <p align="center">
-  <br/><b>👟 &nbsp;Run the &nbsp;🧩&nbsp;Plugin</b></br>
+  <br/><b>👟 &nbsp;Run the Plugin &nbsp;🧩</b></br>
 <img src="https://github.com/arvindcheenu/figma-matercolor/blob/master/src/app/assets/usage-screenshots/Usage-1.png?raw=true" height="200px"/>
  <br/>↓</br>
- <br/><b>🎛️ &nbsp;Configure your &nbsp;🎨&nbsp; Palette</b>
+ <br/><b>🎛️ &nbsp;Configure your Palette &nbsp;🎨</b>
 <img src="https://github.com/arvindcheenu/figma-matercolor/blob/master/src/app/assets/usage-screenshots/Usage-2.png?raw=true" width="90%"/>
   <br/>↓</br>
    <br/><b> 🖌️&nbsp;Use it!</b></br></br>
