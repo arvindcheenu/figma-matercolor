@@ -17,7 +17,7 @@
 
 ### 👐 &nbsp;Contributor's Checklist
 - [x] Before planning to contribute, create a ✨ **new Issue** ✨ so that we can discuss and improve on your proposed changes.
-- [x] Fork and clone this repository using `git clone https://github.com/arvindcheenu/figma-matercolor.git`
+- [x] Fork and clone this repository using `git clone https://github.com/arvindcheenu/Matercolor.figma.git`
 - [x] Go to this directory using `cd figma-matercolor`
 - [x] Run `yarn` to install dependencies.
 - [x] Run `yarn build:watch` to start webpack in watch mode.
