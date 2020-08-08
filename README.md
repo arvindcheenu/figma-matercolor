@@ -1,8 +1,20 @@
 ![Matercolor Figma Plugin](https://github.com/arvindcheenu/figma-matercolor/blob/master/src/app/assets/Matercolor-plugin-header.png?raw=true)
 ## 🎨 Matercolor
-**A Figma Plugin** that generates Material Color Palettes for any Color based on the latest Material Color System Guidelines.
+**🧩 A Figma Plugin** that generates Material Color Palettes for any Color based on the latest Material Color System Guidelines.
 
 ### 🚸 &nbsp;Usage
+
+<p align="center">
+  <br/><b>👟 &nbsp;Run the 🧩 &nbsp;Plugin</b></br>
+<img src="https://github.com/arvindcheenu/figma-matercolor/blob/master/src/app/assets/usage-screenshots/Usage-1.png?raw=true" height="200px"/>
+ <br/>↓</br>
+ <br/><b>🎛️ &nbsp;Configure your 🎨&nbsp;Palette</b>
+<img src="https://github.com/arvindcheenu/figma-matercolor/blob/master/src/app/assets/usage-screenshots/Usage-2.png?raw=true" width="90%"/>
+  <br/>↓</br>
+   <br/><b> 🖌️&nbsp;Use it!</b></br></br>
+<img src="https://github.com/arvindcheenu/figma-matercolor/blob/master/src/app/assets/usage-screenshots/Usage-3.png?raw=true"width="90%"/>
+</p>
+
 ### 👐 &nbsp;Contributor's Checklist
 - [x] Before planning to contribute, create a ✨ **new Issue** ✨ so that we can discuss and improve on your proposed changes.
 - [x] Fork and clone this repository using `git clone https://github.com/arvindcheenu/figma-matercolor.git`
