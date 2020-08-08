@@ -46,7 +46,7 @@
 </table>
 
 ### &nbsp;🌀 Versioning
-Follows [**Keep a Changelog**](https://keepachangelog.com/en/1.0.0/) and [**Semantic Versioning**](https://semver.org/spec/v2.0.0.html) specifications. To know more about the changes made across the versions, see the [**tags on this repository**](https://github.com/your/project/tags). 
+Follows [**Keep a Changelog**](https://keepachangelog.com/en/1.0.0/) and [**Semantic Versioning**](https://semver.org/spec/v2.0.0.html) specifications. To know more about the changes made across the versions, see the [**tags on this repository**](https://github.com/arvindcheenu/Matercolor.figma/tags). 
 
 ### 📜 &nbsp;License
 
