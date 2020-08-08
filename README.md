@@ -6,13 +6,13 @@
 
 <p align="center">
   <br/><b>👟 &nbsp;Run the Plugin &nbsp;🧩</b></br>
-<a href="#readme"><img src="https://github.com/arvindcheenu/figma-matercolor/blob/master/src/app/assets/usage-screenshots/Usage-1.png?raw=true" height="200px"/></a>
+<a href="#-usage"><img src="https://github.com/arvindcheenu/figma-matercolor/blob/master/src/app/assets/usage-screenshots/Usage-1.png?raw=true" height="200px"/></a>
  <br/>↓</br>
  <br/><b>🎛️ &nbsp;Configure your Palette &nbsp;🎨</b>
-<a href="#readme"><img src="https://github.com/arvindcheenu/figma-matercolor/blob/master/src/app/assets/usage-screenshots/Usage-2.png?raw=true" width="90%"/></a>
+<a href="#-usage"><img src="https://github.com/arvindcheenu/figma-matercolor/blob/master/src/app/assets/usage-screenshots/Usage-2.png?raw=true" width="90%"/></a>
   <br/>↓</br>
    <br/><b> 🖌️&nbsp;Use it!</b></br></br>
-<a href="#readme"><img src="https://github.com/arvindcheenu/figma-matercolor/blob/master/src/app/assets/usage-screenshots/Usage-3.png?raw=true"width="90%"/></a>
+<a href="#-usage"><img src="https://github.com/arvindcheenu/figma-matercolor/blob/master/src/app/assets/usage-screenshots/Usage-3.png?raw=true"width="90%"/></a>
 </p>
 
 ### 👐 &nbsp;Contributor's Checklist
@@ -32,10 +32,10 @@
 ### &nbsp;🧰 Toolings
 <table>
 <tr>
-  <td align="center"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="50px"/></td>
-  <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50px"/></td>
-  <td align="center"><img src="https://github.com/webpack/media/blob/master/logo/icon.png" width="50px"/></td>
-  <td align="center"><img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/11490474241551942136-512.png" width="50px"/></td>
+  <td align="center"><a href="#-toolings"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="50px"/></a></td>
+  <td align="center"><a href="#-toolings"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50px"/></a></td>
+  <td align="center"><a href="#-toolings"><img src="https://github.com/webpack/media/blob/master/logo/icon.png" width="50px"/></a></td>
+  <td align="center"><a href="#-toolings"><img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/11490474241551942136-512.png" width="50px"/></a></td>
 </tr>
 <tr>
   <td align="center"><a href="https://github.com/facebook/react"><b>React</b></a></td>
