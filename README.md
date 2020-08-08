@@ -1,4 +1,4 @@
-![Matercolor Figma Plugin](https://github.com/arvindcheenu/figma-matercolor/blob/master/src/app/assets/Matercolor-plugin-header.png?raw=true)
+[![Matercolor Figma Plugin](https://github.com/arvindcheenu/figma-matercolor/blob/master/src/app/assets/Matercolor-plugin-header.png?raw=true)](#readme)
 ## 🎨 Matercolor
 **🧩 A Figma Plugin** that generates Material Color Palettes for any Color based on the latest Material Color System Guidelines.
 
@@ -6,13 +6,13 @@
 
 <p align="center">
   <br/><b>👟 &nbsp;Run the Plugin &nbsp;🧩</b></br>
-<img src="https://github.com/arvindcheenu/figma-matercolor/blob/master/src/app/assets/usage-screenshots/Usage-1.png?raw=true" height="200px"/>
+<a href="#readme"><img src="https://github.com/arvindcheenu/figma-matercolor/blob/master/src/app/assets/usage-screenshots/Usage-1.png?raw=true" height="200px"/></a>
  <br/>↓</br>
  <br/><b>🎛️ &nbsp;Configure your Palette &nbsp;🎨</b>
-<img src="https://github.com/arvindcheenu/figma-matercolor/blob/master/src/app/assets/usage-screenshots/Usage-2.png?raw=true" width="90%"/>
+<a href="#readme"><img src="https://github.com/arvindcheenu/figma-matercolor/blob/master/src/app/assets/usage-screenshots/Usage-2.png?raw=true" width="90%"/></a>
   <br/>↓</br>
    <br/><b> 🖌️&nbsp;Use it!</b></br></br>
-<img src="https://github.com/arvindcheenu/figma-matercolor/blob/master/src/app/assets/usage-screenshots/Usage-3.png?raw=true"width="90%"/>
+<a href="#readme"><img src="https://github.com/arvindcheenu/figma-matercolor/blob/master/src/app/assets/usage-screenshots/Usage-3.png?raw=true"width="90%"/></a>
 </p>
 
 ### 👐 &nbsp;Contributor's Checklist
