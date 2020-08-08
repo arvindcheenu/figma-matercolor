@@ -29,6 +29,25 @@
 - [x] Happy with how your code works? Finalise your changes and open up your Pull Request for **Review**.
 - [x] After a few tantalizing review sessions, ✨ **have a cup of ☕ and watch as your code gets merged!** ✨
 
+### &nbsp;🧰 Toolings
+<table>
+<tr>
+  <td align="center"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="50px"/></td>
+  <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50px"/></td>
+  <td align="center"><img src="https://github.com/webpack/media/blob/master/logo/icon.png" width="50px"/></td>
+  <td align="center"><img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/11490474241551942136-512.png" width="50px"/></td>
+</tr>
+<tr>
+  <td align="center"><a href="https://github.com/facebook/react"><b>React</b></a></td>
+  <td align="center"><a href="https://github.com/microsoft/TypeScript"><b>TypeScript</b></a></td>
+  <td align="center"><a href="https://github.com/webpack/webpack"><b>Webpack</b></a></td>
+  <td align="center"><a href="https://github.com/prettier/prettier"><b>Prettier</b></a></td>
+</tr>
+</table>
+
+### &nbsp;🌀 Versioning
+Follows [**Keep a Changelog**](https://keepachangelog.com/en/1.0.0/) and [**Semantic Versioning**](https://semver.org/spec/v2.0.0.html) specifications. To know more about the changes made across the versions, see the [**tags on this repository**](https://github.com/your/project/tags). 
+
 ### 📜 &nbsp;License
 
 This project is licensed under the [**GPL-3.0 License**](LICENSE.md).
