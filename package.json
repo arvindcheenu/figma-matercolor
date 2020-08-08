@@ -4,7 +4,7 @@
 	"description": "A Figma Plugin that generates Material Color Palettes for any Color",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arvindcheenu/figma-matercolor.git"
+    "url": "git+https://github.com/arvindcheenu/Matercolor.figma.git"
   },
   "keywords": [
     "figma",
@@ -18,9 +18,9 @@
   "license": "GPL-3.0-or-later",
   "author": "Arvind Srinivasan <arvind@cheenu.net>",
   "bugs": {
-    "url": "https://github.com/arvindcheenu/figma-matercolor/issues"
+    "url": "https://github.com/arvindcheenu/Matercolor.figma/issues"
   },
-  "homepage": "https://github.com/arvindcheenu/figma-matercolor#readme",
+  "homepage": "https://github.com/arvindcheenu/Matercolor.figma#readme",
 	"scripts": {
 		"build": "webpack --mode=production",
 		"build:watch": "webpack --mode=development --watch",
