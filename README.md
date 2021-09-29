@@ -6,15 +6,18 @@
 
 ### 🚸 &nbsp;Usage
 
+> **✨ New in v.2.0.0 : More palette varieties!** 
+>
+> Updated to work with the latest version of Matercolor. 
+> **Resolves [issue #2](https://github.com/isarvindone/figma-matercolor/issues/2)**: Enables 3-letter and 6-letter hex code input (with or without hash prefix) while also supporting selection via. color picker. 
+> **Resolves [issue #3](https://github.com/isarvindone/figma-matercolor/issues/3)**: More freedom in naming and grouping palettes. Simply use `/` to nest palettes. 
+
 <p align="center">
   <br/><b>👟 &nbsp;Run the Plugin &nbsp;🧩</b></br>
 <a href="#-usage"><img src="https://github.com/arvindcheenu/figma-matercolor/blob/master/src/app/assets/usage-screenshots/Usage-1.png?raw=true" height="200px"/></a>
  <br/>↓</br>
- <br/><b>🎛️ &nbsp;Configure your Palette &nbsp;🎨</b>
-<a href="#-usage"><img src="https://github.com/arvindcheenu/figma-matercolor/blob/master/src/app/assets/usage-screenshots/Usage-2.png?raw=true" width="90%"/></a>
-  <br/>↓</br>
    <br/><b> 🖌️&nbsp;Use it!</b></br></br>
-<a href="#-usage"><img src="https://github.com/arvindcheenu/figma-matercolor/blob/master/src/app/assets/usage-screenshots/Usage-3.png?raw=true"width="90%"/></a>
+<a href="#-usage"><img src="https://github.com/arvindcheenu/figma-matercolor/blob/master/src/app/assets/usage-screenshots/Usage-2.png?raw=true"width="90%"/></a>
 </p>
 
 ### 👐 &nbsp;Contributor's Checklist

@@ -688,7 +688,7 @@ body {
     margin: 1px 0 1px 0;
     padding: var(--size-xxsmall) var(--size-xxxsmall) var(--size-xxsmall) var(--size-xxsmall);
     color: var(--black8);
-    border: 1px solid transparent;
+    border: 1px solid var(--black1);
     border-radius: var(--border-radius-small);
     outline: 0;
     background-color: var(--white);
@@ -696,7 +696,7 @@ body {
 .input__field:hover,
 .input__field:placeholder-shown:hover {
     color: var(--black8);
-    border: 1px solid var(--black1);
+    border: 1px solid var(--black3);
     background-image: none;
 }
 .input__field::-moz-selection {
@@ -843,4 +843,82 @@ body {
 }
 .type--inline {
     display: inline-block;
+}
+
+.select-menu {
+    position: relative;
+}
+
+.select-menu__button {
+    display: flex;
+    font-family: var(--font-stack);
+    font-size: var(--font-size-xsmall);
+    align-items: center;
+    border: 1px solid var(--black1);
+    height: 30px;
+    width: 100%;
+    margin: 1px 0 1px 0;
+    padding: 0px var(--size-xxsmall) 0px var(--size-xxsmall);
+    overflow-y: hidden;
+    border-radius: 0px;
+    background-color: var(--white);
+}
+
+.select-menu__button:hover {
+    border-color: var(--black3);
+}
+
+.select-menu__button:focus {
+    border: 1px solid var(--blue);
+    outline: 1px solid var(--blue);
+    outline-offset: -2px;
+}
+
+.select-menu__button:disabled:hover {
+    justify-content: flex-start;
+    border-color: transparent;
+}
+
+.select-menu__button * {
+    pointer-events: none;
+}
+
+.select-menu__button:hover .select-menu__label--placeholder {
+    color: var(--black8);
+}
+
+.select-menu__button:focus .select-menu__label--placeholder {
+    color: var(--black8);
+}
+
+.select-menu__button:disabled:hover .select-menu__label--placeholder {
+    color: var(--black3);
+}
+
+.select-menu__button:hover .select-menu__caret,
+.select-menu__button:focus .select-menu__caret {
+    opacity: 1;
+    margin-left: auto;
+}
+
+.select-menu__button:disabled:hover .select-menu__caret {
+    opacity: 0.3;
+    margin-left: -12px;
+}
+
+.select-menu__button:disabled .select-menu__label {
+    color: var(--black3);
+}
+
+.select-menu__label {
+    font-size: var(--font-size-xsmall);
+    font-weight: var(--font-weight-normal);
+    letter-spacing: var(--font-letter-spacing-neg-xsmall);
+    line-height: var(--line-height);
+    color: var(--black8);
+    margin-right: 6px;
+    margin-top: -2px;
+    white-space: nowrap;
+    overflow-x: hidden;
+    text-overflow: ellipsis;
 }

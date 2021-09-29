@@ -27,7 +27,7 @@
 		"prettier:format": "prettier --write 'src/**/*.{js,jsx,ts,tsx,css,json}' "
 	},
 	"dependencies": {
-		"matercolors": "1.1.1",
+		"matercolors": "2.3.0",
 		"react": "^16.13.1",
 		"react-dom": "^16.13.1",
 		"react-hook-form": "^6.3.0"
