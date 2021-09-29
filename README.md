@@ -4,19 +4,6 @@
 
 <a href="https://www.figma.com/community/plugin/872008431843787391"><img src="https://github.com/arvindcheenu/figma-matercolor/blob/master/src/app/assets/install-on-figma-button.png?raw=true" height="50px"></a>
 
-### 🚸 &nbsp;Usage
-
-<p align="center">
-  <br/><b>👟 &nbsp;Run the Plugin &nbsp;🧩</b></br>
-<a href="#-usage"><img src="https://github.com/arvindcheenu/figma-matercolor/blob/master/src/app/assets/usage-screenshots/Usage-1.png?raw=true" height="200px"/></a>
- <br/>↓</br>
- <br/><b>🎛️ &nbsp;Configure your Palette &nbsp;🎨</b>
-<a href="#-usage"><img src="https://github.com/arvindcheenu/figma-matercolor/blob/master/src/app/assets/usage-screenshots/Usage-2.png?raw=true" width="90%"/></a>
-  <br/>↓</br>
-   <br/><b> 🖌️&nbsp;Use it!</b></br></br>
-<a href="#-usage"><img src="https://github.com/arvindcheenu/figma-matercolor/blob/master/src/app/assets/usage-screenshots/Usage-3.png?raw=true"width="90%"/></a>
-</p>
-
 ### 👐 &nbsp;Contributor's Checklist
 - [x] Before planning to contribute, create a ✨ **new Issue** ✨ so that we can discuss and improve on your proposed changes.
 - [x] Fork and clone this repository using `git clone https://github.com/arvindcheenu/Matercolor.figma.git`
